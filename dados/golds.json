@@ -1,0 +1,54 @@
+[
+  {
+    "grupo": "120363420275296344@g.us",
+    "exercito": [
+      {
+        "id": "558598188647@s.whatsapp.net",
+        "Soldados": 0,
+        "ultimoTreino": 0,
+        "desativar": false,
+        "Dinheiro": 0
+      }
+    ]
+  },
+  {
+    "grupo": "558596183752@s.whatsapp.net",
+    "exercito": []
+  },
+  {
+    "grupo": "5493884142389@s.whatsapp.net",
+    "exercito": []
+  },
+  {
+    "grupo": "120363148935355415@g.us",
+    "exercito": []
+  },
+  {
+    "grupo": "120363194378500802@newsletter",
+    "exercito": []
+  },
+  {
+    "grupo": "558585475423@s.whatsapp.net",
+    "exercito": [],
+    "vidaCidade": 1000,
+    "defesasCidade": 0
+  },
+  {
+    "grupo": "558586316395@s.whatsapp.net",
+    "exercito": [],
+    "vidaCidade": 1000,
+    "defesasCidade": 0
+  },
+  {
+    "grupo": "status@broadcast",
+    "exercito": [],
+    "vidaCidade": 1000,
+    "defesasCidade": 0
+  },
+  {
+    "grupo": "120363143193025860@g.us",
+    "exercito": [],
+    "vidaCidade": 1000,
+    "defesasCidade": 0
+  }
+]

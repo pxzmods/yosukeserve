@@ -1,0 +1,48 @@
+{
+  "mark": {},
+  "createdAt": "2025-06-20T11:11:43.377Z",
+  "groupName": "-_Yosuke chat bot - SUPORTE & INFORMAÇÕES-_",
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "contador": [
+    {
+      "id": "558598188647@s.whatsapp.net",
+      "msg": 43,
+      "cmd": 495,
+      "figu": 0,
+      "pushname": "Gabriel",
+      "firstSeen": "2025-06-20T11:11:43.409Z",
+      "lastActivity": "2025-08-04T04:56:17.969Z"
+    },
+    {
+      "id": null,
+      "msg": 6,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Usuário Desconhecido",
+      "firstSeen": "2025-06-20T16:03:15.668Z",
+      "lastActivity": "2025-07-08T22:32:24.767Z"
+    },
+    {
+      "id": "558596183752@s.whatsapp.net",
+      "msg": 3,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "krv2",
+      "firstSeen": "2025-06-21T02:54:42.981Z",
+      "lastActivity": "2025-07-03T17:19:17.814Z"
+    }
+  ],
+  "afkUsers": {},
+  "modobrincadeira": true,
+  "bemvindo": true,
+  "textbv": "olá seja bemvindo #numerodele# ao grupo #nomedogrupo# \n\nRegras #desc#\n\n#membros#",
+  "welcome": {
+    "image": "https://raw.githubusercontent.com/nazuninha/uploads/main/outros/1750549074424_zwml50.bin"
+  },
+  "blockedUsers": {},
+  "warnings": {},
+  "antilinkhard": true,
+  "membersWithLID": []
+}

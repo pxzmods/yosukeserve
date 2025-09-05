@@ -1,0 +1,35 @@
+{
+  "name": "youke",
+  "version": "3.3.1",
+  "description": "Bot de whatsapp, qualquer dúvida chama privado.",
+  "main": "connect.js",
+  "scripts": {
+    "start": "node dados/src/.scripts/start.js",
+    "start:dual": "node dados/src/.scripts/start.js dual",
+    "config": "node dados/src/.scripts/config.js",
+    "config:install": "node dados/src/.scripts/config.js --install",
+    "update": "node dados/src/.scripts/update.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiudyy/nazuna.git"
+  },
+  "homepage": "https://cognima.com.br",
+  "author": "Pxz mods",
+  "license": "ISC",
+  "dependencies": {
+    "@cognima/banners": "latest",
+    "@cognima/walib": "latest",
+    "baileys": "^6.7.18",
+    "fluent-ffmpeg": "latest",
+    "linkedom": "latest",
+    "node-cron": "latest",
+    "node-webpmux": "latest",
+    "qrcode-terminal": "latest",
+    "yt-search": "latest"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=9.0.0"
+  }
+}
